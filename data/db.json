@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new homepage banner ess add",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.dd",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "Create new homepage banner html",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "complete": false
+    }
+  ]
+}
